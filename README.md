@@ -19,7 +19,7 @@
 
 ### App Walkthough GIF
 
-<img src=![Uploading flixter2.gif…]()width=250><br>
+<img src=![flixter2 2](https://user-images.githubusercontent.com/58011593/150666753-9b4bafde-f940-47b6-b3af-8e03d270533d.gif)width=250><br>
 
 ### Notes
 I did the whole code but it wouldn't work. I didn't have a lot of time and when I started a couple hours before the due date, I couldn't fix the issue in time leading it to be late. Eventually I realized that the emulator was the one that has a problem so I had to rebuild the project and run it again.
